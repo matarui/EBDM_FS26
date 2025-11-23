@@ -1,0 +1,17 @@
+---
+title: "Exam"
+description: |
+  What have you learned?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Exams are learning instruments too... <br> <span>photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/s/photos/test?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/annie-spratt-JexAuNCfefs-unsplash.jpg)
+
+# Assessment
+
+You can find information about the location and time of the exam in the [course directory](https://vorlesungsverzeichnis.unibas.ch/de/home?id=280447). 
+
+The exam will consist of an in-person, paper-and-pencil, multiple-choice exam. More information about the exam will be provided during the semester. 

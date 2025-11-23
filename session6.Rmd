@@ -1,0 +1,39 @@
+---
+title: "Counterfactuals"
+description: |
+  How should one conduct and report experiments?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Experiments create counterfactuals... <br> <span>photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="https://unsplash.com/s/photos/experiment?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/chuttersnap-UmncJq4KPcA-unsplash.jpg)
+
+## Background Video
+
+### What is a Randomized Control Trial?
+
+Randomized control trials are a type of experiment and are often said to be the gold standard for causal inference. Check this video of the Medical Research Council for a short introduction to RCTs (5 minutes). 
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/U6kVlRn6G0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Consolidated Standards of Reporting Trials (CONSORT)
+
+What are key features of RCT trials and how should they be reported? These and other aspects are formalized with the “Consolidated Standards of Reporting Trials” (CONSORT). Take a look at the **Schulz et al. (2010)** required reading to familiarize yourself with the history of CONSORT, and, most importantly, the CONSORT checklist. Do you find the checklist helpful? Which items of the checklist do you find most important, and why?
+
+## Required Reading
+
+Schulz, K. F., Altman, D. G., & Moher, D. (2010). CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. Journal of Pharmacology and Pharmacotherapeutics, 1(2), 100-107. [https://journals.sagepub.com/doi/abs/10.4103/0976-500X.72352](https://journals.sagepub.com/doi/abs/10.4103/0976-500X.72352) 
+
+## Session Slides
+
+![Experiments](presentations/EBDM_session6.pdf){width=700px height=500px}
+
+<!-- ## Additional Resources -->
+
+<!-- ### Further Reading -->
+
+<!-- Are you interested in the history and development of RCTs? This piece provides an interesting historical overview, including some discussion of limitations of RCTs.  -->
+
+<!-- Bothwell, L.E., Greene, J.A., Podolsky, S.H., & Jones, D.S. (2016). Assessing the gold standard - Lessons from the history of RCTs. *New England Journal of Medicine, 2*, 374(22):2175-81. [doi: 10.1056/NEJMms1604593.](https://github.com/matarui/ebdm/raw/main/docs/literature/Bothwelletal_2016_NEJM.pdf) -->

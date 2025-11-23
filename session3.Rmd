@@ -1,0 +1,48 @@
+---
+title: "Algorithms"
+description: |
+  What are the limits of algorithmic decision-making?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+!["Excuse us, could you please tell us the exact whereabouts of John Connor?" <br> <span>photo by <a href="https://unsplash.com/@mina_fc?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mina FC</a> on <a href="https://unsplash.com/s/photos/stupid-robot?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+](photos/mina-fc-3QKsG0fDrC8-unsplash.jpg)
+
+## Background Video
+
+### Weapons of math destruction!?!
+
+Algorithmic decision-making is not without problems...
+
+Please watch Cathy O'Neil's TED talk "The era of blind faith in big data must end" (ca. 14 minutes) to learn more about the dark side of outsorcing our decisions to algorithms. 
+
+The video will serve as a starting point for a discussion on the limits of algorithmic decision-making.  
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/_2u_eHHzRto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Required Reading
+
+How can the behavioral sciences use insights from machine learning to generate insights about human behavior? 
+
+Read **Yarkoni and Westfall (2017)** (ca. 120 minutes) to get an overview machine learning concepts and some of its pitfalls (e.g., overfitting) and associated solutions (e.g., cross-validation, regularization).
+
+Yarkoni, T., & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. *Perspectives on Psychological Science, 12*(6), 1100–1122. [http://doi.org/10.1177/1745691617693393](https://github.com/matarui/ebdm/raw/main/docs/literature/Yarkoni_2017_PPS.pdf)
+
+## Session Slides
+
+![The problems of algorithms](presentations/EBDM_session3.pdf){width=700px height=500px}
+
+<!-- ## Additional Resources -->
+
+<!-- ### Further Readings  -->
+
+<!-- Are you interested in learning more about problems of machine learning, including the so-called "aligment problem"? This book could be a good starting point... -->
+
+<!-- Christian, B. (2020). *The alignment problem.* New York: W.W. Norton & Company. [https://brianchristian.org/the-alignment-problem/](https://brianchristian.org/the-alignment-problem/) -->
+
+
+

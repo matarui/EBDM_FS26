@@ -1,0 +1,35 @@
+---
+title: "Synthesis"
+description: |
+  What is research synthesis?
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Knowledge is all around us... <br> <span>photo by <a href="https://unsplash.com/@luis_tosta?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Luis Tosta</a> on <a href="https://unsplash.com/s/photos/library?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](photos/luis-tosta-COAbFWdOf5s-unsplash.jpg)
+
+## Background Video
+
+### What is research synthesis?
+
+Watch this short introduction to research synthesis to learn more about it and why we need it (ca. 5 minutes).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZR0xQmZVQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Required Reading
+
+Read the paper by **Gurevitch et al. (2018)** for a short overview of the history of research synthesis (60 minutes). 
+
+Gurevitch, J., Koricheva, J., Nakagawa, S., & Stewart, G. (2018). Meta-analysis and the science of research synthesis. *Nature, 555*(7695), 175–182.  [http://doi.org/10.1038/nature25753](https://github.com/matarui/ebdm/raw/main/docs/literature/Gurevitch_2018_Nature.pdf)
+
+## Session Slides
+
+![Synthesis](presentations/EBDM_session8.pdf){width=700px height=500px}
+
+<!-- ## Additional Resources -->
+
+<!-- For a historical perspective on the development of a central form of research synthesis: meta-analysis.  -->
+
+<!-- Hunt, M. (1997). *How Science Takes Stock: The Story of Meta-Analysis*. Russell Sage Foundation.  -->
