@@ -1,7 +1,7 @@
 ---
 title: "EBDM"
 description: |
-  Welcome to the website for *Evidence-based decision making* FS25 ([11230-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=289121))
+  Welcome to the website for *Evidence-based decision making* FS26 ([11230-01](https://vorlesungsverzeichnis.unibas.ch/de/vorlesungsverzeichnis?id=289121))
   
   Instructors: [Loreen Tisdall](https://loreentisdall.github.io) and [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), University of Basel
   
@@ -34,21 +34,20 @@ Sessions take place Mondays, 14.15-15.45 in different locations (see table below
 ::: l-body
 | # | Date     | Topic                         | Slides | Location | Instructor |
 |---| ---------|-------------------------------|--------| --------| --------|
-| 1 | 17.02.2025 | [The scientific method(s)](session1.html) |[pdf](presentations/EBDM_session1.pdf)| Kollegien | Mata|
-| 2 | 24.02.2025 | [Algorithms: The power of algorithms](session2.html) |[pdf](presentations/EBDM_session2.pdf) | Kollegien | Mata|
-| 3 | 17.03.2025 | [Algorithms: The problems of algorithms](session3.html) |[pdf](presentations/EBDM_session3.pdf) | Missionsstr. | Mata|
-| 4 | 24.03.2025 | [Consensus: The wisdom of the crowd](session4.html) |[pdf](presentations/EBDM_session4.pdf) | Missionsstr. | Tisdall|
-| 5 | 31.03.2025 | [Consensus: The wisdom of experts](session5.html) |[pdf](presentations/EBDM_session5.pdf) | Missionsstr. | Tisdall|
-| 6 | 07.04.2025 | [Counterfactuals: Experiments](session6.html) |[pdf](presentations/EBDM_session6.pdf) | Missionsstr. | Tisdall|
-| 7 | 14.04.2025 | [Counterfactuals: Alternatives to experiments](session7.html) |[pdf](presentations/EBDM_session7.pdf) | Missionsstr. | Tisdall|
-| 8 | 28.04.2025 | [Synthesis: Overview](session8.html) |[pdf](presentations/EBDM_session8.pdf) | Missionsstr. | Mata|
-| 9 | 05.05.2025 | [Synthesis: Limitations](session9.html) |[pdf](presentations/EBDM_session9.pdf) | Missionsstr. | Mata|
-| 10 | 12.05.2025 | [Interventions: A taxonomy](session10.html) |[pdf](presentations/EBDM_session10.pdf) | Missionsstr. | Mata|
-| 11 | 19.05.2025 | [Interventions: Implementation](session11.html) |[pdf](presentations/EBDM_session11.pdf) | Missionsstr. | Mata|
-| 12 | 26.05.2025 | [Exam](exam.html) | | Chemie | |
+| 1 | 16.02.2026 | [The scientific method(s)](session1.html) | | | Mata|
+| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kollegien | Mata|
+| 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) |  | Missionsstr. | Mata|
+| 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | | Missionsstr. | Tisdall|
+| 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall|
+| 6 | 30.03.2026 | [Counterfactuals: Experiments](session6.html) | | Missionsstr. | Tisdall|
+| 7 | 13.04.2026 | [Counterfactuals: Alternatives to experiments](session7.html) | | Missionsstr. | Tisdall|
+| 8 | 27.04.2026 | [Synthesis: Overview](session8.html) | | Missionsstr. | Mata |
+| 9 | 04.05.2026 | [Synthesis: Limitations](session9.html) |  | Missionsstr. | Mata|
+| 10 | 11.05.2026 | [Interventions](session10.html) |  | Missionsstr. | Mata|
+| 11 | 18.05.2026 | [Exam](exam.html) |  |  | Mata |
 :::
 
-*Note*. Slides will be made available shortly before each session. For some sessions, the slides available may be from previous versions of the course (FS24).
+*Note*. Slides will be made available shortly before each session. 
 
 # :books: What is this course about? 
 
