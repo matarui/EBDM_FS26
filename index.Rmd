@@ -29,7 +29,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # :busstop: Session information
 
-Sessions take place Mondays, 14.15-15.45 in different locations (see table below; Kollegie = Kollegienhaus, Hörsaal 120; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006; Chemie = Chemie, Organische, Grosser Hörsaal OC).  
+Sessions take place Mondays, 14.15-15.45.
+
+<!-- in different locations (see table below; Kollegie = Kollegienhaus, Hörsaal 120; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006; Chemie = Chemie, Organische, Grosser Hörsaal OC).   -->
 
 ::: l-body
 | # | Date     | Topic                         | Slides | Location | Instructor |
