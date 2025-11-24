@@ -45,8 +45,8 @@ Sessions take place Mondays, 14.15-15.45.
 | 7 | 13.04.2026 | [Counterfactuals: Alternatives to experiments](session7.html) | | Missionsstr. | Mata |
 | 8 | 20.04.2026 | [Synthesis: Overview](session8.html) | | Missionsstr. | Tisdall |
 | 9 | 27.04.2026 | [Synthesis: Limitations](session9.html) | | Missionsstr. | Tisdall |
-| 10 | 04.05.2026 | [Interventions: Overview](session10.html) |  | Missionsstr. | Mata |
-| 11 | 11.05.2026 | [Interventions & Wrap-up](session11.html) |  | Missionsstr. | Mata |
+| 10 | 04.05.2026 | [Interventions: A taxonomy](session10.html) |  | Missionsstr. | Mata |
+| 11 | 11.05.2026 | [Interventions: Implementation & Wrap-up](session11.html) |  | Missionsstr. | Mata |
 | 12 | 18.05.2026 | [Exam](exam.html) |  |  |  |
 :::
 
