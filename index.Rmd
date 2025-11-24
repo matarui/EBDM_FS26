@@ -35,16 +35,17 @@ Sessions take place Mondays, 14.15-15.45 in different locations (see table below
 | # | Date     | Topic                         | Slides | Location | Instructor |
 |---| ---------|-------------------------------|--------| --------| --------|
 | 1 | 16.02.2026 | [The scientific method(s)](session1.html) | | | Mata|
-| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kollegien | Mata|
-| 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) |  | Missionsstr. | Mata|
-| 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | | Missionsstr. | Tisdall|
-| 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall|
-| 6 | 30.03.2026 | [Counterfactuals: Experiments](session6.html) | | Missionsstr. | Tisdall|
-| 7 | 13.04.2026 | [Counterfactuals: Alternatives to experiments](session7.html) | | Missionsstr. | Tisdall|
-| 8 | 27.04.2026 | [Synthesis: Overview](session8.html) | | Missionsstr. | Mata |
-| 9 | 04.05.2026 | [Synthesis: Limitations](session9.html) |  | Missionsstr. | Mata|
-| 10 | 11.05.2026 | [Interventions](session10.html) |  | Missionsstr. | Mata|
-| 11 | 18.05.2026 | [Exam](exam.html) |  |  | Mata |
+| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kollegien | Mata |
+| 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) |  | Missionsstr. | Mata |
+| 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | | Missionsstr. | Tisdall |
+| 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall |
+| 6 | 30.03.2026 | [Counterfactuals: Experiments](session6.html) | | Missionsstr. | Mata |
+| 7 | 13.04.2026 | [Counterfactuals: Alternatives to experiments](session7.html) | | Missionsstr. | Mata |
+| 8 | 20.04.2026 | [Synthesis: Overview](session8.html) | | Missionsstr. | Tisdall |
+| 9 | 27.04.2026 | [Synthesis: Limitations](session9.html) | | Missionsstr. | Tisdall |
+| 10 | 04.05.2026 | [Interventions: Overview](session10.html) |  | Missionsstr. | Mata |
+| 11 | 11.05.2026 | [Interventions & Wrap-up](session11.html) |  | Missionsstr. | Mata |
+| 12 | 18.05.2026 | [Exam](exam.html) |  |  |  |
 :::
 
 *Note*. Slides will be made available shortly before each session. 
