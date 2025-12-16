@@ -36,8 +36,8 @@ Sessions take place Mondays, 14.15-15.45.
 ::: l-body
 | # | Date     | Topic                         | Slides | Location | Instructor |
 |---| ---------|-------------------------------|--------| --------| --------|
-| 1 | 16.02.2026 | [The scientific method(s)](session1.html) | | Kollegienhaus | Mata|
-| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kollegienhaus | Mata |
+| 1 | 16.02.2026 | [The scientific method(s)](session1.html) | | Kollegienhaus 120 | Mata|
+| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kollegienhaus 120 | Mata |
 | 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) |  | Missionsstr. | Mata |
 | 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | | Missionsstr. | Tisdall |
 | 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall |
@@ -47,7 +47,7 @@ Sessions take place Mondays, 14.15-15.45.
 | 9 | 27.04.2026 | [Synthesis: Limitations](session9.html) | | Missionsstr. | Tisdall |
 | 10 | 04.05.2026 | [Interventions: A taxonomy](session10.html) |  | Missionsstr. | Mata |
 | 11 | 11.05.2026 | [Interventions: Implementation & Wrap-up](session11.html) |  | Missionsstr. | Mata |
-| 12 | 18.05.2026 | [Exam](exam.html) |  | Kollegienhaus |  |
+| 12 | 18.05.2026 | [Exam](exam.html) |  | Kollegienhaus 102 |  |
 :::
 
 *Note*. Slides will be made available shortly before each session. 
@@ -84,6 +84,6 @@ This website is designed to help course participants get an overview of the cour
 
 No video recordings of the in-person sessions will be made available. 
 
-### Exam
+# :memo: Exam
 
-The exam will consist of an in-person, paper-and-pencil, multiple-choice exam. More information about the exam will be provided during the semester. 
+The exam will consist of an in-person, paper-and-pencil, multiple-choice exam. More information about the exam will be provided in the course. 
