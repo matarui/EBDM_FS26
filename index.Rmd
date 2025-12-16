@@ -84,4 +84,6 @@ This website is designed to help course participants get an overview of the cour
 
 No video recordings of the in-person sessions will be made available. 
 
-Information about the exam is available on the [Exam](exam.html) tab on this webpage.  
+### Exam
+
+The exam will consist of an in-person, paper-and-pencil, multiple-choice exam. More information about the exam will be provided during the semester. 

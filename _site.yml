@@ -34,8 +34,6 @@ navbar:
         href: session10.html
       - text: "Interventions: Implementation"
         href: session11.html
-    - text: "Exam"
-      href: exam.html
       search: true
 bibliography: ebdm.bib
 output:
