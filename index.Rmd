@@ -29,15 +29,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # :busstop: Session information
 
-Sessions take place Mondays, 14.15-15.45.
-
-<!-- in different locations (see table below;  Kollegienhaus 120 = Kollegienhaus, Hörsaal 120; Kollegienhaus 118 = Kollegienhaus, Hörsaal 118; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006).   -->
+Sessions take place Mondays, 14.15-15.45 in different locations (see table below;  Kolleg. 120 = Kollegienhaus, Hörsaal 120; Kolleg. 118 = Kollegienhaus, Hörsaal 118; Missionsstr. = Missionsstrasse 62a, Seminarraum 00.006).  
 
 ::: l-body
 | # | Date     | Topic                         | Slides | Location | Instructor |
 |---| ---------|-------------------------------|--------| --------| --------|
-| 1 | 16.02.2026 | [The scientific method(s)](session1.html) | | Kollegienhaus 120 | Mata|
-| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kollegienhaus 120 | Mata |
+| 1 | 16.02.2026 | [The scientific method(s)](session1.html) | | Kolleg. 120 | Mata|
+| 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  | Kolleg. 120 | Mata |
 | 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) |  | Missionsstr. | Mata |
 | 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | | Missionsstr. | Tisdall |
 | 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall |
@@ -47,7 +45,7 @@ Sessions take place Mondays, 14.15-15.45.
 | 9 | 27.04.2026 | [Synthesis: Limitations](session9.html) | | Missionsstr. | Tisdall |
 | 10 | 04.05.2026 | [Interventions: A taxonomy](session10.html) |  | Missionsstr. | Mata |
 | 11 | 11.05.2026 | [Interventions: Implementation & Wrap-up](session11.html) |  | Missionsstr. | Mata |
-| 12 | 18.05.2026 | [Exam](exam.html) |  | Kollegienhaus 118 |  |
+| 12 | 18.05.2026 | [Exam](exam.html) |  | Kolleg. 118 |  |
 :::
 
 *Note*. Slides will be made available shortly before each session. 
