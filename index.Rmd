@@ -36,7 +36,7 @@ Sessions take place Mondays, 14.15-15.45 in different locations (see table below
 |---| ---------|-------------------------------|--------| --------| --------|
 | 1 | 16.02.2026 | [Introduction](session1.html) | [pdf](presentations/EBDM_session1.pdf) | Kolleg. 120 | Mata|
 | 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  [pdf](presentations/EBDM_session2.pdf)  | Kolleg. 120 | Mata |
-| 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) |  | Missionsstr. | Mata |
+| 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) | [pdf](presentations/EBDM_session3.pdf)  | Missionsstr. | Mata |
 | 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | | Missionsstr. | Tisdall |
 | 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall |
 | 6 | 30.03.2026 | [Counterfactuals: Experiments](session6.html) | | Missionsstr. | Mata |
