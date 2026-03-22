@@ -38,7 +38,7 @@ Sessions take place Mondays, 14.15-15.45 in different locations (see table below
 | 2 | 02.03.2026 | [Algorithms: The power of algorithms](session2.html) |  [pdf](presentations/EBDM_session2.pdf)  | Kolleg. 120 | Mata |
 | 3 | 09.03.2026 | [Algorithms: The problems of algorithms](session3.html) | [pdf](presentations/EBDM_session3.pdf)  | Missionsstr. | Mata |
 | 4 | 16.03.2026 | [Consensus: The wisdom of the crowd](session4.html) | [pdf](presentations/EBDM_session4.pdf) | Missionsstr. | Tisdall |
-| 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) |  | Missionsstr. | Tisdall |
+| 5 | 23.03.2026 | [Consensus: The wisdom of experts](session5.html) | [pdf](presentations/EBDM_session5.pdf) | Missionsstr. | Tisdall |
 | 6 | 30.03.2026 | [Counterfactuals: Experiments](session6.html) | | Missionsstr. | Mata |
 | 7 | 13.04.2026 | [Counterfactuals: Alternatives to experiments](session7.html) | | Missionsstr. | Mata |
 | 8 | 20.04.2026 | [Synthesis: Overview](session8.html) | | asynchronous | Tisdall |
