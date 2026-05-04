@@ -43,7 +43,7 @@ Sessions take place Mondays, 14.15-15.45 in different locations (see table below
 | 7 | 13.04.2026 | [Counterfactuals: Alternatives to experiments](session7.html) | [pdf](presentations/EBDM_session7.pdf) | Missionsstr. | Mata |
 | 8 | 20.04.2026 | [Synthesis: Overview](session8.html) | [pdf](presentations/EBDM_session8.pdf) | asynchronous | Tisdall |
 | 9 | 27.04.2026 | [Synthesis: Limitations](session9.html) | [pdf](presentations/EBDM_session9.pdf) | Missionsstr. | Tisdall |
-| 10 | 04.05.2026 | [Interventions: A taxonomy](session10.html) |  | Missionsstr. | Mata |
+| 10 | 04.05.2026 | [Interventions: A taxonomy](session10.html) | [pdf](presentations/EBDM_session10.pdf)  | Missionsstr. | Mata |
 | 11 | 11.05.2026 | [Interventions: Implementation & Wrap-up](session11.html) |  | Missionsstr. | Mata |
 | 12 | 18.05.2026 | [Exam](exam.html) |  | Kolleg. 118 |  |
 :::
